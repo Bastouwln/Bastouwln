@@ -1,13 +1,11 @@
 <h1 align="center">Hi ☕, I'm Douglas</h1>
 <h3 align="center">On my way to be a great developer</h3>
 
-<p align="center"> <a href="https://twitter.com/stouwlnia1" target="blank"><img src="https://img.shields.io/twitter/follow/stouwlnia1?logo=twitter&style=for-the-badge" alt="stouwlnia1" /></a> </p>
-
 - 💬 Ask me about **Everything about my projects**
 
 - 📫 How to reach me **wathicyiscrazyomg@gmail.com**
 
-- ⚡ Fun fact **My twitter is only for poems and fun stuff, give it a look!**
+- 🛄 Free for a job!
 
 <br>
 <br>
@@ -35,11 +33,27 @@
 <br>
 <br>
 <h1 align="center" font-weight="bold">More about me: </h1>
-
+<div align="center">
+  
 ![Bastouwln GitHub stats](https://github-readme-stats.vercel.app/api?username=bastouwln&show_icons=true&theme=radical)
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastouwln&layout=compact)
 
+</div>
 <br>
 <br>
+
+<p align="center" font-weight="bold">
+⚡ Fun fact:
+  My twitter is only for poems and fun stuff, give it a look!
+</p>
+
+<p align="center"> <a href="https://twitter.com/stouwlnia1" target="blank"><img src="https://img.shields.io/twitter/follow/stouwlnia1?logo=twitter&style=for-the-badge" alt="stouwlnia1" /></a> </p>
+
+<br>
+<br>
+<br>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bastouwln&label=Profile%20views&color=0e75b6&style=flat" alt="bastouwln" /> </p>
