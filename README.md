@@ -11,6 +11,8 @@
 
 - ⚙️ Back end
 
+- 🖱️ Small design experience
+
  <h6 align="center">Going for full stack!</h6>
 
 <br>
