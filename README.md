@@ -44,16 +44,12 @@
 <br>
 
 <h1 align="center" font-weight="bold">This is my content creator part, have fun watching videos or interacting with me!</h1>
+<br>
+<br>
+<p align="center">
 <a href="https://twitter.com/stouwlnia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stouwlnia1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCP4EGWDyPwRIpfwb-Rtfavg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stoulwnia" height="30" width="40" /></a>
-
-<p align="center" font-weight="bold">
-⚡ Fun fact:
-  My twitter is only for poems and fun stuff, give it a look!
 </p>
-
-<p align="center"> <a href="https://twitter.com/stouwlnia1" target="blank"><img src="https://img.shields.io/twitter/follow/stouwlnia1?logo=twitter&style=for-the-badge" alt="stouwlnia1" /></a> </p>
-
 <br>
 <br>
 <br>
