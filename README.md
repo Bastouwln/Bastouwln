@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <body>
   <div class ="g">
 ### Hi there 👋
