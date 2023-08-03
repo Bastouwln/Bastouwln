@@ -1,8 +1,4 @@
-
 ### Hi there 👋
-<style>
-  background-color: black;
-</style>
 <div>
   
 </div>
