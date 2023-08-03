@@ -7,6 +7,12 @@
 
 - 🛄 Free for a job!
 
+- 🖌️ Front end
+
+- ⚙️ Back end
+
+ <h6 align="center">Going for full stack!</h6>
+
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
