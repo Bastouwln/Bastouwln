@@ -13,7 +13,7 @@
 <br>
 <p align="center">
 <a href="https://twitter.com/stouwlnia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stouwlnia1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/douglas-cristiano-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas cristiano silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/douglas-cristiano-silva-2b138227a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas cristiano silva" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/stoulwnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stoulwnia" height="30" width="40" /></a>
 <a href="https://discord.gg/A6UmuBZ3ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="A6UmuBZ3ns" height="30" width="40" /></a>
 </p>
