@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastouwln&show_icons=true&locale=en" alt="bastouwln" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bastouwln&" alt="bastouwln" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
