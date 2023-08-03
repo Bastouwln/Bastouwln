@@ -50,16 +50,4 @@
 </div>
 <br>
 <br>
-
-<h1 align="center" font-weight="bold">This is my content creator part, have fun watching videos or interacting with me!</h1>
-<br>
-<br>
-<p align="center">
-<a href="https://twitter.com/stouwlnia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stouwlnia1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCP4EGWDyPwRIpfwb-Rtfavg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stoulwnia" height="30" width="40" /></a>
-</p>
-<br>
-<br>
-<br>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bastouwln&label=Profile%20views&color=0e75b6&style=flat" alt="bastouwln" /> </p>
