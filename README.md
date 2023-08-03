@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wathicyiscrazyomg@gmail.com**
 
-- ⚡ Fun fact **I love l4d2** 
+- ⚡ Fun fact **My twitter is only for poems and fun stuff, give it a look!**
 
 <br>
 <br>
